@@ -1,6 +1,7 @@
 # study_materials
 
 HEADINGS
+
 # 1
 ## 2
 ### 3
@@ -9,6 +10,7 @@ HEADINGS
 ###### 6
 
 STYLING TEXT
+
 **Bold**
 *Italics*
 ~~Strike Through~~
