@@ -13,6 +13,9 @@ ___
 STYLING TEXT
 
 **Bold**
+
 *Italics*
+
 ~~Strike Through~~
+
 **Bold and _Italics_ **
