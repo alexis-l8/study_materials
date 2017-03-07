@@ -77,9 +77,12 @@ TASK LIST
 - [ ] Open a pull request
 ___
 EMOJIS MAN
+
 :rocket:
 :hourglass:
 
 ... AND SOUNDS
+
 /play tada
+
 /play letitgo
