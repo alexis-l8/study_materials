@@ -75,3 +75,11 @@ TASK LIST
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+___
+EMOJIS MAN
+:rocket:
+:hourglass:
+
+... AND SOUNDS
+/play tada
+/play letitgo
