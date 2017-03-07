@@ -66,8 +66,12 @@ Multiple Levels:
 ___
 TASK LIST
 
-[ ] Have not done this one
+- [ ] Have not done this one
 
-[x] But I have done this one
+- [x] But I have done this one
 
-[ ] But not this one
+- [ ] But not this one
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
