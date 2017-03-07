@@ -21,14 +21,14 @@ STYLING TEXT
 **Bold and _Italics_ **
 ___
 
-Quoting Text
+QUOTING TEXT
 
 **"Free education is abundant, all over the internet. It's the desire to learn that's scarce."**
 > Naval Ravikant
 
 ___
 
-Quoting Code
+QUOTING CODE
 
 What git commands do you know Alexis?
 ```
@@ -37,6 +37,22 @@ git checkout -b <new_branch_name>
 ```
 
 ___
-Links
+LINKS
 
 You can find more [Quotes Here](http://www.goodreads.com/quotes/tag/philosophy)
+
+___
+LISTS
+
+- One
+- Two 
+- Three
+1. 1
+2. 2 
+3. 3
+
+
+1. Level 1
+  1. Level 2
+2. Level 1.1
+  * Level 2.1
