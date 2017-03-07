@@ -43,6 +43,7 @@ You can find more [Quotes Here](http://www.goodreads.com/quotes/tag/philosophy)
 
 ___
 LISTS
+
 Bullets:
 
 - One
@@ -50,11 +51,13 @@ Bullets:
 - Three
 
 Numbered:
+
 1. 1
 2. 2 
 3. 3
 
 Multiple Levels:
+
 1. Level 1
   1. Level 2
 2. Level 1.1
@@ -64,5 +67,7 @@ ___
 TASK LIST
 
 -[ ] Have not done this one
+
 -[x] But I have done this one
+
 -[ ] But not this one
