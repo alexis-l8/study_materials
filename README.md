@@ -66,8 +66,8 @@ Multiple Levels:
 ___
 TASK LIST
 
--[ ] Have not done this one
+[ ] Have not done this one
 
--[x] But I have done this one
+[x] But I have done this one
 
--[ ] But not this one
+[ ] But not this one
