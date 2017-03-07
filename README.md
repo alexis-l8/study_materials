@@ -19,3 +19,9 @@ STYLING TEXT
 ~~Strike Through~~
 
 **Bold and _Italics_ **
+___
+
+Quotations
+
+**"Free education is abundant, all over the internet. It's the desire to learn that's scarce."**
+> Naval Ravikant
