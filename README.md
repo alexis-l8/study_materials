@@ -1,4 +1,13 @@
 # study_materials
+
+QUOTING CODE
+
+What git commands do you know Alexis?
+```
+git commit -am "detailed message here"
+git checkout -b <new_branch_name>
+mv <old_file_name> <new_file_name>
+```
 ___
 HEADINGS
 
@@ -28,15 +37,7 @@ QUOTING TEXT
 
 ___
 
-QUOTING CODE
 
-What git commands do you know Alexis?
-```
-git commit -am "detailed message here"
-git checkout -b <new_branch_name>
-```
-
-___
 LINKS
 
 You can find more [Quotes Here](http://www.goodreads.com/quotes/tag/philosophy)
