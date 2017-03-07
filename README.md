@@ -79,10 +79,5 @@ ___
 EMOJIS MAN
 
 :rocket:
+
 :hourglass:
-
-... AND SOUNDS
-
-/play tada
-
-/play letitgo
